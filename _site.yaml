@@ -1,0 +1,10 @@
+name: "RCharts"
+output_dir: "docs"
+navbar:
+  title: "RCharts"
+  left:
+  - text: "RCharts"
+   href: rcharts-notebook.html
+output:
+  html_document:
+ theme: cosmo
